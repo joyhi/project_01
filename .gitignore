@@ -1,0 +1,5 @@
+# 忽略 test01.css 这个文件
+test01.css
+
+# 忽略 test 文件夹下的所有文件
+test/
